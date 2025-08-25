@@ -8,3 +8,4 @@ base: '/FlowSure-demo/',
 build: { outDir: 'docs' }
 })
 
+

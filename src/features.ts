@@ -1,0 +1,1 @@
+export const ENABLED_TABS = ["Mileage", "Summary", "Chargebacks"];
